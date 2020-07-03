@@ -78,7 +78,7 @@
 <script>
    var now = new Date();
    var display = new.toLocaleTimeString();
-   document.write("현재 시각으 " + display);
+   document.write("현재 시각은 " + display);
 </script>
 ```
 
